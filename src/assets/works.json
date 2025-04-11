@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "961 Workspace",
+        "tools": ["NEXTjs", "CSS", "TypeScript"],
+        "image": "assets/images/workspace.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Aou Lebanon Library CMS",
+        "tools": ["Vite React", "CSS + Tailwindcss", "JavaScript", "Electron", "Node.js"],
+        "image": "assets/images/AOULEB.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Dash",
+        "tools": ["HTML", "CSS", "JavaScript"],
+        "image": "assets/images/DASH.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Flex Fit Zone",
+        "tools": ["React", "CSS", "JavaScript", "Express", "Node.js", "MongoDB"],
+        "image": "assets/images/FFZ.jpg"
+    },
+    {
+        "id": 5,
+        "title": "HBDW",
+        "tools": ["HTML", "CSS", "JavaScript"],
+        "image": "assets/images/HBDW.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Marimba Hotel Website",
+        "tools": ["React", "CSS + Tailwindcss", "JavaScript", "Express", "Node.js", "MongoDB"],
+        "image": "assets/images/MARIMBA.jpg"
+    }
+]

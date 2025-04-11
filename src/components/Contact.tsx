@@ -40,20 +40,20 @@ const Contact = () => {
               Linkedin <MdArrowOutward />
             </a>
             <a
-              href="https://x.com"
+              href="https://discordapp.com/users/devils_breath696"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
             >
-              Twitter <MdArrowOutward />
+              Discord <MdArrowOutward />
             </a>
             <a
-              href="https://www.instagram.com"
+              href="https://dev.to/"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
             >
-              Instagram <MdArrowOutward />
+              Dev.to <MdArrowOutward />
             </a>
           </div>
           <div className="contact-box">
