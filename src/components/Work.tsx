@@ -71,7 +71,7 @@ const Work = () => {
                 <h4>Tools and features</h4>
                 <p>{work.tools.join(", ")}</p>
               </div>
-              <img src={new URL(`../${work.image}`, import.meta.url).href} alt={work.title} />
+              <img src={new URL(`${work.image}`, import.meta.url).href} alt={work.title} />
             </div>
           ))}
         </div>
