@@ -1,15 +1,17 @@
 {
   "name": "my-portfolio",
-  "homepage": "https://sn.sniper.github.io/Hassan-Assaad/",
+  "homepage": "https://sn.sniper.github.io/hassan-assaad/",
   "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite --host",
-    "build": "tsc -b && vite build",
-    "lint": "eslint .",
-    "preview": "vite preview"
-  },
+  "dev": "vite --host",
+  "build": "vite build --base=/hassan-assaad/",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist",  
+  "lint": "eslint .",
+  "preview": "vite preview"
+},
   "dependencies": {
     "@react-three/cannon": "^6.6.0",
     "@react-three/drei": "^9.120.4",
